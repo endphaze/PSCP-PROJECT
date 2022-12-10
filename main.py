@@ -17,11 +17,10 @@ class Game:
         while True:
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
-                    pygame.quit()
                     sys.exit()
             
             self.screen.fill('Pink')
-            debug("Hello")
+            debug("sdfasfasdf")
             pygame.display.update()
             self.clock.tick(FPS)
 
