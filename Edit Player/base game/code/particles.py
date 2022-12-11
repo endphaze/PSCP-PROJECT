@@ -6,7 +6,7 @@ class AnimationPlayer:
 	def __init__(self):
 		self.frames = {
 			# magic
-			'flame': import_folder('../graphics/particles/flame/frames'),
+			'flame': import_folder('../graphics/test/flame/frames'),
 			'aura': import_folder('../graphics/particles/aura'),
 			'heal': import_folder('../graphics/particles/heal/frames'),
 			

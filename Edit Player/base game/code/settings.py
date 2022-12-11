@@ -34,15 +34,15 @@ BAR_COLOR = '#EEEEEE'
 BAR_COLOR_SELECTED = '#111111'
 UPGRADE_BG_COLOR_SELECTED = '#EEEEEE'
 
-# weapons 
+# weapons #แก้นี่
 weapon_data = {
-	'sword': {'cooldown': 100, 'damage': 15,'graphic':'../graphics/weapons/sword/full.png'},
+	'sword': {'cooldown': 100, 'damage': 15,'graphic':'../graphics/test/weapon/sword/newatef.png'},
 	}
 
 # magic
 magic_data = {
-	'flame': {'strength': 5,'cost': 20,'graphic':'../graphics/particles/flame/fire.png'},
-	'heal' : {'strength': 20,'cost': 10,'graphic':'../graphics/particles/heal/heal.png'}}
+	'flame': {'strength': 5,'cost': 20,'graphic':'../graphics/test/flame/fire.png'},
+	'heal' : {'strength': 20,'cost': 10,'graphic':'../graphics/test/flame/heal.png'}}
 
 # enemy
 monster_data = {
