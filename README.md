@@ -10,3 +10,6 @@ SPACEBAR - โจมตี <br>
 CTRLข้างซ้าย - ใช้ skill <br>
 E - เปลี่ยน skill <br>
 M - เปิด stat และการ SPACEBAR - อัพเกรด <br>
+
+<b>คลิปที่ใช้เป็นแนวทาง : </b>
+<a href="https://youtu.be/QU1pPzEGrqw">https://youtu.be/QU1pPzEGrqw</a>
