@@ -13,3 +13,5 @@ M - เปิด stat และการ SPACEBAR - อัพเกรด <br>
 
 <b>คลิปที่ใช้เป็นแนวทาง : </b>
 <a href="https://youtu.be/QU1pPzEGrqw">https://youtu.be/QU1pPzEGrqw</a>
+
+<b>! ถ้าเป็น mac ให้เข้าที่ code แล้วเปิดไฟล์ main.py นะครับ</b>
